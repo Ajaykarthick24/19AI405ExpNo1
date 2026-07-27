@@ -104,6 +104,7 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 
+
 ```
 # Output :
 <img width="458" height="170" alt="Screenshot 2026-07-24 142413" src="https://github.com/user-attachments/assets/16b3b5b6-a9d9-4b80-b1a8-4390eea6f962" />
